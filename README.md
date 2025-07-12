@@ -1,5 +1,3 @@
-## Heyyoo everyone!, welcome to my git guide
-- Yo, `Cyber` here
-
-
+## Welcome to git
+- This is coming from `Dev-Maxi`
 - I'm adding this from `feature-branch` branch"
